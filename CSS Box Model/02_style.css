@@ -1,0 +1,29 @@
+.one{
+    padding: 10px;
+    background-color: rgb(10, 152, 152);
+    border: 10px solid black ;
+    height: 200px;
+   
+    width: 200px;
+}
+
+.second{
+    /* padding: 10px ; */
+   position: relative;
+   right: -235px;
+   
+    background-color: yellow;
+    border:  solid black;
+    border-width: 20px 10px ;
+    height: 200px;
+    width: 200px;
+}
+
+.third{
+    background-color: rgb(158, 59, 59);
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    position: relative;
+    left: 20px;
+}

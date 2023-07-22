@@ -1,0 +1,33 @@
+.box1{
+  
+    background-color: aqua;
+display: inline-block;
+height: 200px;
+width: 350px;
+position: relative;
+
+
+
+}
+img{
+    position: relative;
+    float: left;
+    height: 110px;
+    width: 110px;
+}
+
+.box2{
+    padding: 10px;
+    display: inline-block;
+    background-color: rgb(244, 113, 70);
+    height: 200px;
+    width: 350px;
+    position: relative;
+    left: 795px;
+}
+
+footer{
+    background-color: purple;
+    text-align: center;
+    padding: 0px;
+}

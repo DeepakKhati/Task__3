@@ -1,0 +1,15 @@
+h1{
+    color: green;
+}
+
+h3{
+    color: brown;
+}
+
+.abc > .child{
+    color: blue;
+}
+
+li{
+    color: green;
+}

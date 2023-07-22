@@ -1,0 +1,72 @@
+.logo{
+    height: 30px;
+}
+
+.head1{
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.creative{
+    color: blue;
+}
+
+.flower{
+    float: left;
+    position: relative;
+    bottom: -10px;
+    padding: 5px;
+    height: 150px;
+    width: 230px;
+}
+
+.beauty > b {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    position: relative;
+    bottom: -9px;
+}
+
+.beauty{
+    font-family: 'Times New Roman', Times, serif;
+    height: 400px;
+    width: 450px;
+    padding: 10px;
+    margin: 4px;
+    display: inline-block;
+}
+
+
+.const > b {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    position: relative;
+    bottom: -9px;
+}
+
+.constructions{
+    float: left;
+    position: relative;
+    bottom: -10px;
+    padding: 5px;
+    height: 150px;
+    width: 230px;
+}
+
+.const{
+    font-family: 'Times New Roman', Times, serif;
+    height: 400px;
+    width: 450px;
+    padding: 10px;
+    margin: 4px;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+
+}
+
+footer{
+    position: relative;
+    left: 1350px;
+}

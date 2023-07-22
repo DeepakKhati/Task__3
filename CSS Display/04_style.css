@@ -1,0 +1,23 @@
+.p1{
+    color: white;
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+
+.p2{
+    color: white;
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+
+.p3{
+    color: white;
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
